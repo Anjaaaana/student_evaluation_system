@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "98550215931",
+    "project_id": "fir-connect-99ffe",
+    "storage_bucket": "fir-connect-99ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98550215931:android:e71528939879a89a04ec5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_add_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98550215931-ioblb7dluolatl9r1qic1aubmnug790i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcP3q77A43BEa7G39KcALq7tAl9kc0L7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98550215931-ioblb7dluolatl9r1qic1aubmnug790i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98550215931:android:467cad29a85a1d7f04ec5e",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98550215931-ioblb7dluolatl9r1qic1aubmnug790i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcP3q77A43BEa7G39KcALq7tAl9kc0L7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98550215931-ioblb7dluolatl9r1qic1aubmnug790i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
